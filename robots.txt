@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://storehouse.studio/sitemap.xml
